@@ -41,7 +41,7 @@ console.log(age);          // Error: age is not defined
 
 ---
 
-### ✅ Summary
+## ✅ Summary
 
 - Use `let` and `const` — they respect **block scope** and help avoid unexpected behavior.
 - `var` is **function-scoped**, not block-scoped.

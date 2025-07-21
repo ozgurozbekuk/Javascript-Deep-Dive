@@ -54,6 +54,6 @@ console.log(age);          // Error: age is not defined
 
 ## 💡 Next Steps
 
-- 🔄 **Practice with Closures** — a powerful concept that heavily relies on understanding scope.
+- 🔄 **Practice with [Closures](../closures/closures.md)** — a powerful concept that heavily relies on understanding scope.
 
 ---

@@ -39,6 +39,8 @@ console.log(name);         // Output: Ozgur
 console.log(surname);      // Error: surname is not defined
 console.log(age);          // Error: age is not defined
 
+```
+
 ---
 
 ## ✅ Summary

@@ -2,6 +2,6 @@
 
 Notes and explanations from my journey into the deeper workings of JavaScript and the web.
 
-- [Scope](../scopes/scope.md)
+- [Scope](./scopes/scope.md)
 
-- [Closures](../closures/closures.md)
+- [Closures](./closures/closures.md)

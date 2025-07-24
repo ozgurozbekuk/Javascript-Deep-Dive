@@ -6,4 +6,4 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 
 - [Closures](./closures/closures.md)
 
-- [Hoisting](./hoistinf/hoisting.md)
+- [Hoisting](./hoisting/hoisting.md)

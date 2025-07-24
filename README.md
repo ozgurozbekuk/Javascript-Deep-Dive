@@ -5,3 +5,5 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 - [Scope](./scopes/scope.md)
 
 - [Closures](./closures/closures.md)
+
+- [Hoisting](./hoistinf/hoisting.md)

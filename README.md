@@ -7,3 +7,5 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 - [Closures](./closures/closures.md)
 
 - [Hoisting](./hoisting/hoisting.md)
+
+- [The `this` Keyword](./thiskeyword/thiskeyword.md)

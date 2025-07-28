@@ -9,3 +9,5 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 - [Hoisting](./hoisting/hoisting.md)
 
 - [The `this` Keyword](./thiskeyword/thiskeyword.md)
+
+- [Prototype & Inheritance](./prototype-inheritance/prototype_inheritance.md)

@@ -111,6 +111,6 @@ obj.introduce2(); // undefined
 
 ## 💡 Next Steps
 
-- 🔄 [Prototype & Inheritance](../prototypeandinheritance/prototypeandinheritance.md)
+- [Prototype & Inheritance](./prototype-inheritance/prototype_inheritance.md)
 
 ---

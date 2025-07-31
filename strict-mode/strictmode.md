@@ -75,3 +75,5 @@ Strict Mode can be applied only within a function if needed.
 - It’s a basic yet essential concept for every JavaScript developer.
 
 ## 💡 Next Steps
+
+- [Callback Fuction](../callback-functions/callback.md)

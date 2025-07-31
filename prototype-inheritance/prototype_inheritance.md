@@ -84,4 +84,6 @@ Here, `Dog` inherits the `makeSound` method from `Animal`, and also has its own 
 
 ## 💡 Next Steps
 
+- [Strict Mode](../strict-mode/strictmode.md)
+
 ---

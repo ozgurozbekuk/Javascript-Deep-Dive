@@ -11,3 +11,7 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 - [The `this` Keyword](./thiskeyword/thiskeyword.md)
 
 - [Prototype & Inheritance](./prototype-inheritance/prototype_inheritance.md)
+
+- [Strict Mode](./strict-mode/strictmode.md)
+
+- [Callback Functions](./callback-functions/callback.md)

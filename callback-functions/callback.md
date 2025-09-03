@@ -53,3 +53,5 @@ Goodbye!
 - Callbacks are fundamental in JavaScript, especially for async programming.
 
 ## 💡 Next Steps
+
+- 🔄 [Promises](../promises/promises.md)

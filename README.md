@@ -15,3 +15,6 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 - [Strict Mode](./strict-mode/strictmode.md)
 
 - [Callback Functions](./callback-functions/callback.md)
+
+- 🔄 [Promises](../promises/promises.md)
+

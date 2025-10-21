@@ -16,5 +16,6 @@ Notes and explanations from my journey into the deeper workings of JavaScript an
 
 - [Callback Functions](./callback-functions/callback.md)
 
-- 🔄 [Promises](../promises/promises.md)
+- [Promises](./promises/promises.md)
 
+- [Web App / Website Quality Checklist](./web-app-site-checklist/checklist.md)
